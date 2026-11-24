@@ -1,0 +1,4 @@
+model,detected_fraud_value,missed_fraud_value,false_alarm_value,total_fraud_value
+Logistic Regression,7196.959999999999,2043.71,352845.63,9240.67
+Random Forest,5749.63,3491.04,293.16,9240.67
+XGBoost,6008.93,3231.7400000000002,3705.95,9240.67
